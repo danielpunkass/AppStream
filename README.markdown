@@ -13,7 +13,7 @@ A minimal Mac OS X app.net client
 * <del>Create a app.net client app.</del>
 * <del>Use "x-com-toxicsoftware-appstream:///" as the Callback URL.</del>
 * NEW: I've embedded a client_id into the source. You do not need to make your own app on app.net.
-* Don't forget to do a submodule update: git submodule --init
+* Don't forget to do a submodule update: git submodule update --init
 * Build and run the app, follow the instructions for setting the client id
 
 ## GOALS
